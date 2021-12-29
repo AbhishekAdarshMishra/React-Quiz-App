@@ -1,0 +1,42 @@
+export const Questions = [
+  {
+    Ques: "A line which cuts a pair of parellel line is called ?",
+    A: "Tangent",
+    B: "Chord",
+    C: "Traversal",
+    D: "Intersector",
+    Answer: "C",
+  },
+  {
+    Ques: "If a certain sum of money can becomes 5 times of its principal in 10 years , then the rate of interest is ?",
+    A: "20%",
+    B: "30%",
+    C: "40%",
+    D: "50%",
+    Answer: "C",
+  },
+  {
+    Ques: "Product of two expressions ⁄ L.C.M =",
+    A: "H.C.F",
+    B: "L.C.M",
+    C: "H.C.F + L.C.M",
+    D: "H.C.F * L.C.M",
+    Answer: "A",
+  },
+  {
+    Ques: "If 6 men take 9 days to complete a work, how many men can complete the work in 3 days? ",
+    A: "2 Men",
+    B: "12 Men",
+    C: "9 Men",
+    D: "18 Men",
+    Answer: "D",
+  },
+  {
+    Ques: "For two or more algebraic expressions, the expression of highest degree which divides each of them without remainder is called ?",
+    A: "L.C.M",
+    B: "H.C.F",
+    C: "Rational expression",
+    D: "Irrational expression",
+    Answer: "B",
+  },
+];

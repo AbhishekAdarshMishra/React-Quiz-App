@@ -1,0 +1,18 @@
+.MainMenu{
+    display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.Menu{
+    width:500px;
+    height: 500px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+.Menu button{
+    margin-top:60px;
+}
