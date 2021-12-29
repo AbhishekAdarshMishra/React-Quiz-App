@@ -13,7 +13,7 @@ function QuizMenu() {
   const [answerChoice, setAnswerChoice] = useState([]);
   const { quizState, setQuizState, score, setScore } = useContext(MenuContext);
   const [running, setRunning] = useState(true);
-  const [second, setSecond] = useState(20);
+  const [second, setSecond] = useState(30);
 
   useEffect(() => {
     if (running) {
